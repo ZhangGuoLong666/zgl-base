@@ -1,2 +1,2 @@
-# zgl-base
-项目基础服务
+# zgl-message
+消息服务
